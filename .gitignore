@@ -1,4 +1,9 @@
-Py_Async_0*
+# Py_Async_0* files
+[Py_Async_0]*
+
+# Temp Jupyter files
 tempCodeRunnerFile.ipynb
+
+# AsyncIO folders
 AsyncIO-Code-Examples/
 AsyncIO-Animations/
